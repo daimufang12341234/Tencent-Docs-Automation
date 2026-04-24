@@ -1,0 +1,15 @@
+# 腾讯文档值班打卡自动化工具依赖
+# 作者：dmf
+# 时间：2026/4/16
+
+# Selenium 浏览器自动化
+selenium>=4.15.0
+
+# Chrome驱动自动管理
+webdriver-manager>=4.0.0
+
+# 定时任务调度
+apscheduler>=3.10.0
+
+# 打包工具（开发用）
+pyinstaller>=6.0.0

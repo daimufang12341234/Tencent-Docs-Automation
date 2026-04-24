@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Runtime data
+chrome_data/
+logs/
+release/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Misc
+aa.txt
+使用说明.md
+腾讯文档值班打卡自动化工具-技术方案.md
+build.bat
+
+# Claude Code
+.claude/
